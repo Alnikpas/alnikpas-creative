@@ -1,4 +1,4 @@
-# ✴️ ALNIKPAS Creative  
+# ✴️ ALNIKPAS-studio  
 
 **A visual & voice storytelling hub by Alena Passiouk**  
 Exploring the intersection of psychology, sound, and AI-generated art.  
@@ -9,8 +9,8 @@ Exploring the intersection of psychology, sound, and AI-generated art.
 
 ### Projects include  
 - 🎭 **AI fashion & conceptual art**  
-- 🪷 **Meditative visuals & voice**  
-- 🎬 **Visual storytelling & experimental narratives**  
+- 🪷 **Visual storytelling & voice**  
+- 🎬 **AI Film Director & Visual Storytel**  
 
 ---
 
